@@ -71,3 +71,8 @@ public class abstract_class {
 	}
 
 }
+/* the output is :
+Employee  Details :
+
+Name:Raghav, Id:12, Age:20
+*/
